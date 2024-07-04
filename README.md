@@ -1,2 +1,2 @@
 # FL
-PyTorch implementation of FL (MICCAI 2024)
+Code will be released at https://github.com/DeepMed-Lab-ECNU/FL.
